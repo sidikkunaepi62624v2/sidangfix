@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\laragon\\www\\recheck-sidang-master\\Gaji\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_detail.xml",
+        "source": "C:\\laragon\\www\\recheck-sidang-master\\Gaji\\app\\src\\main\\res\\menu\\user_detail.xml"
+    },
+    {
+        "merged": "C:\\laragon\\www\\recheck-sidang-master\\Gaji\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_user_detail_drawer.xml",
+        "source": "C:\\laragon\\www\\recheck-sidang-master\\Gaji\\app\\src\\main\\res\\menu\\activity_user_detail_drawer.xml"
+    }
+]
